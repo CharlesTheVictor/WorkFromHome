@@ -50,6 +50,7 @@ iframe[class^="Desc"] {
   padding: 5px;
   font-family: Helvetica;
   font-size: 12pt;
+  z-index: 25;
 }
 
 .grid {
