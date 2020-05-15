@@ -142,7 +142,7 @@ $('document').ready(function(){
 
 	$('.loading').click(
 		 function() {
-			 $('.grid').show();
+			 $('.grid, .WFHlogo, .headerbar').show();
 			 $(".loading").remove();
 	}, );
 
